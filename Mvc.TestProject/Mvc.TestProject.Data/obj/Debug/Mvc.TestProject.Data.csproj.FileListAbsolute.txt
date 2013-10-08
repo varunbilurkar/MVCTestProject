@@ -1,0 +1,9 @@
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Data\bin\Debug\Mvc.TestProject.Data.dll
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Data\bin\Debug\Mvc.TestProject.Data.pdb
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Data\obj\Debug\Mvc.TestProject.Data.csprojResolveAssemblyReference.cache
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Data\obj\Debug\Mvc.TestProject.Data.dll
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Data\obj\Debug\Mvc.TestProject.Data.pdb
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Data\bin\Debug\EntityFramework.dll
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Data\bin\Debug\EntityFramework.xml
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Data\bin\Debug\Mvc.TestProject.Domain.dll
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Data\bin\Debug\Mvc.TestProject.Domain.pdb

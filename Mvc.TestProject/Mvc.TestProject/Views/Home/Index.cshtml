@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@model IList<Mvc.TestProject.Domain.Contact>
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Full Name</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>@item.FullName</td>
+        <td>
+         @foreach (var addressitem in item.Addresses)
+	        {
+		        <div>@addressitem.Line1</div> 
+                <div>@addressitem.City</div> 
+	        }
+        </td>
+    </tr>    
+        
+    }
+    
+</table>

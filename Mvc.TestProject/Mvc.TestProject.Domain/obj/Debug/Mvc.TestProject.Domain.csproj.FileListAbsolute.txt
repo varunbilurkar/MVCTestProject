@@ -1,0 +1,11 @@
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Domain\bin\Debug\Mvc.TestProject.Domain.dll
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Domain\bin\Debug\Mvc.TestProject.Domain.pdb
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Domain\bin\Debug\AutoMapper.dll
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Domain\bin\Debug\AutoMapper.Net4.dll
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Domain\bin\Debug\Castle.Core.dll
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Domain\bin\Debug\Castle.Windsor.dll
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Domain\bin\Debug\AutoMapper.xml
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Domain\bin\Debug\Castle.Core.xml
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Domain\bin\Debug\Castle.Windsor.xml
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Domain\obj\Debug\Mvc.TestProject.Domain.dll
+F:\Varun\InstaNew1\Mvc.TestProject\Mvc.TestProject.Domain\obj\Debug\Mvc.TestProject.Domain.pdb
